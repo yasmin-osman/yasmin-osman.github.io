@@ -1,6 +1,6 @@
 # Yasmin Osman
 
-Healthcare technology engineer pivoting to AI engineering. 5 years building, integrating, and optimising clinical systems at Guy's and St Thomas' NHS Foundation Trust — the UK's largest Epic EPR implementation (16,000+ staff, 50+ sites). Co-founder of Health Butler, a voice AI startup targeting the NHS's £1bn missed-appointment problem.
+Healthcare technology engineer pivoting to AI engineering. 5 years building, integrating, and optimising clinical systems at Guy's and St Thomas' NHS Foundation Trust — one of the UK's largest Epic EPR implementation (16,000+ staff, 50+ sites). Co-founder of Health Butler, a voice AI startup targeting the NHS's £1bn missed-appointment problem.
 
 BSc Physics, King's College London.
 
